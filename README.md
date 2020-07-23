@@ -1,4 +1,4 @@
-#### PHP Parallel
+### PHP Parallel
 
 **Links:**
 * https://github.com/krakjoe/parallel
