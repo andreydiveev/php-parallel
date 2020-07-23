@@ -1,6 +1,6 @@
 ### PHP Parallel
 
-**Links:**
+##### Links:
 * https://github.com/krakjoe/parallel
 
 ##### Usage:
