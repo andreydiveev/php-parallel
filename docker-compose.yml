@@ -1,0 +1,10 @@
+version: '3'
+services:
+  php:
+    build: ./.docker/php/7.4-zts-buster
+    ports:
+    - 80:80
+    volumes:
+    - ./src:/opt/zts
+    working_dir: /opt/zts
+    command: php -S 0.0.0.0:80 run.php
